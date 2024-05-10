@@ -25,6 +25,5 @@ async function displaySchoolValue(schoolName) {
 }
 
 displaySchoolValue('Holberton');
-displaySchoolValue('Holberton2');
 setNewSchool('HolbertonSanFrancisco', '100');
 displaySchoolValue('HolbertonSanFrancisco');
